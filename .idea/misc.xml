@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/activity_download_photo.xml" value="0.264" />
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/activity_enter_room.xml" value="0.10435663627152988" />
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/activity_protected_login.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/activity_select_photo.xml" value="0.1" />
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/activity_successful_signup.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/activity_winning_message.xml" value="0.1" />
+        <entry key="..\:/Users/joann/OneDrive/Desktop/Memory_gameCA/app/src/main/res/layout/image_list.xml" value="0.1213768115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

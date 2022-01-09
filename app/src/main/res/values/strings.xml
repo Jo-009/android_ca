@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memory_gameCA</string>
+    <string name="downloadPhoto">Download Photo</string>
+    <string name="selectPhoto">Select Photo</string>
+    <string name="yourUrl">Type Your Url</string>
+    <string name="fetch">Fetch</string>
+    <string name="select">Select</string>
+    <string name="back">Back</string>
+</resources>
